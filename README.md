@@ -18,5 +18,3 @@
 * PostgreSQL
 * Heroku
 
-## Link para fazer requisições no Postman
-https://course-java-springboottt.herokuapp.com/
